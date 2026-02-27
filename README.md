@@ -1,5 +1,3 @@
-# code
-Optimized RVV AudioMark
 # RISC-V Vector Optimization: AudioMark AXPY Kernel
 
 This repository contains an optimized **RISC-V Vector (RVV)** implementation of the **Q15 AXPY (`a * x + y`)** kernel, a critical operation in digital signal processing (DSP).
